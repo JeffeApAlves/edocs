@@ -1,0 +1,76 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/jeffeapalves
+
+    - title: News
+      url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Tutorials
+      folderitems:
+      - title: Access point
+        url: hostapd.html
+      
+      - title: Nginx
+        url: nginx.html
+      
+      - title: Gunicorn
+        url: gunicorn.html
+      
+      - title: iptables
+        url: iptables.html
+
+      - title: Daphne
+        url: daphne.html
+
+      - title: OpenOCD
+        url: openocd.html
+
+    - title: Projects
+      folderitems:
+      - title: gtracker
+        external_url: https://jeffeapalves.github.io/gtracker
+
+      - title: MasterTrader
+        external_url: https://jeffeapalves.github.io/MasterTrader
+
+      - title: TrainRoute
+        external_url: https://jeffeapalves.github.io/TrainRoute
+
+      - title: ETA
+        external_url: https://jeffeapalves.github.io/ETA
+
+    - title: Category
+      folderitems:
+
+        - title: Linux
+          url: /linux_landing_page.html
+
+        - title: Embedded System
+          url: /embarcado_landing_page.html
+        
+        - title: OpenStreetMap
+          url: osm_landing_page.html
+        
+        - title: SUMO
+          url: /sumo_landing_page.html
+        
+        - title: Python
+          url: /python_landing_page.html
+        
+        - title: Database
+          url: /db_landing_page.html
+
+        - title: Vanet
+          url: /vanet_landing_page.html
+
+        - title: Web
+          url: /web_landing_page.html
+

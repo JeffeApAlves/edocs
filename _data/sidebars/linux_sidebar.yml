@@ -1,0 +1,54 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Linux
+  product: Linux
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: CLI
+    output: web, pdf
+    folderitems:
+
+    - title: Rede
+      url: /linux_network.html
+      output: web, pdf
+
+    - title: Usuário
+      url: /linux_user.html
+      output: web, pdf
+
+    - title: SSH
+      url: /linux_ssh.html
+      output: web, pdf
+
+
+  - title: Softwares
+    output: web, pdf
+    folderitems:
+
+    - title: Gerenciador de arquivos
+      url: /linux_misc.html
+      output: web, pdf
+
+
+  - title: Service
+    output: web, pdf
+    folderitems:
+
+    - title: Supervisor
+      url: /linux_service.html
+      output: web, pdf

@@ -1,0 +1,36 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Embedded system
+  product: Embedded system
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: ESP32
+    output: web, pdf
+    folderitems:
+
+    - title: SDK
+      url: /esp32_sdk.html
+      output: web, pdf
+
+    - title: Toolchain
+      url: /esp32_toolchain.html
+      output: web, pdf
+
+    - title: Debug
+      url: /esp32_debug.html
+      output: web, pdf
