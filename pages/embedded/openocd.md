@@ -1,9 +1,9 @@
 ---
 title: OpenOCD
-keywords: openocd
-sidebar: openocd_sidebar
+keywords: openocd raspberry jtag debug
+sidebar: embedded_sidebar
 toc: true
-hide_sidebar: true
+hide_sidebar: false
 permalink: openocd.html
 folder: openocd
 ---
@@ -12,7 +12,7 @@ folder: openocd
 ## Raspberry (as JTAG adapter)
 
 Criará um server para clientes gdb. Rodando na raspberry pi 0, transformando-a em um adapter jtag. É possível configurar a interface permitindo
-a EB, através do GPIO, conectar na porta JTAG do dispositivo target que se pretende debugar.
+a RB, através do GPIO, conectar na porta JTAG do dispositivo target que se pretende debugar.
     
 ### Configuração da interface do OpenOCD
 
