@@ -4,7 +4,7 @@ keywords: josm
 sidebar: osm_sidebar
 toc: true
 permalink: osm_edit.html
-folder: osm
+folder: geo
 ---
 
 

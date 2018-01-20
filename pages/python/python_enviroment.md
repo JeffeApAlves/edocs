@@ -1,7 +1,7 @@
 ---
-title: Ambiente virtual Python (virtualenvwrapper)
-keywords: virtualenvwrapper
-tags: [django]
+title: Ambiente virtual Python
+keywords: virtualenvwrapper workon
+tags: [python]
 sidebar: python_sidebar
 toc: true
 permalink: python_enviroment.html
@@ -10,10 +10,12 @@ folder: python
 
 ## Instalação
 
-1. Instalar a ferramenta de gerenciamento de ambientes Python
+1. Instalar a ferramenta de gerenciamento de ambientes Python (virtualenvwrapper)
     ```shell
     $ sudo pip install virtualenvwrapper
     ```
+## Configuração
+
 2. Adiciona o path de repositorios de ambientes
     ```shell
     $ echo source /usr/local/bin/virtualenvwrapper.sh >> ~/.bashrc

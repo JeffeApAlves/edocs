@@ -1,10 +1,11 @@
 ---
 title: SUMO
 keywords: sumo
-sidebar: sumo_sidebar
+hide_sidebar: false
+sidebar: vanet_sidebar
 toc: true
 permalink: sumo_install.html
-folder: sumo
+folder: vanet
 ---
 
 ## Instalação

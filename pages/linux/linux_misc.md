@@ -1,23 +1,19 @@
 ---
-title: Linux
-keywords: sample
-summary: "Programas úteis"
+title: mc
+keywords: [mc]
+summary: "Gerenciador de documentos via cl"
 sidebar: linux_sidebar
 permalink: linux_misc.html
 folder: linux
+tags: [cl, mc]
 toc: true
 ---
-
-
-# mc
 
 ## Instalação
 
 ```shell
 $ sudo apt-get install mc
 ```
-
-File explorer para Linux usando a linha de comando:
 
 ## Execução
 

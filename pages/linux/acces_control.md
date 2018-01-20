@@ -6,7 +6,7 @@ summary:
 toc: true
 sidebar: access_controls_sidebar
 permalink: access_control.html
-folder: access_control
+folder: linux
 ---
 
 ## LDAP

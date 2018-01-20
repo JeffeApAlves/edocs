@@ -26,3 +26,7 @@ entries:
     - title: Omnet++
       url: /omnet.html
       output: web, pdf
+
+    - title: SUMO
+      url: /sumo_install.html
+      output: web, pdf

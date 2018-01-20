@@ -3,7 +3,7 @@ title: Python
 keywords: python
 sidebar: python_sidebar
 toc: false
-permalink: python_landing_page.html
+permalink: sw_landing_page.html
 folder: python
 ---
 

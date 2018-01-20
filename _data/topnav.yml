@@ -54,23 +54,19 @@ topnav_dropdowns:
           url: /linux_landing_page.html
 
         - title: Embedded System
-          url: /embarcado_landing_page.html
+          url: /embedded_landing_page.html
         
-        - title: OpenStreetMap
-          url: osm_landing_page.html
+        - title: Geoprocessamento
+          url: geo_landing_page.html
         
-        - title: SUMO
-          url: /sumo_landing_page.html
+        - title: Desenvolvimento de software
+          url: /sw_landing_page.html
         
-        - title: Python
-          url: /python_landing_page.html
-        
-        - title: Database
+        - title: Data structures
           url: /db_landing_page.html
 
-        - title: Vanet
+        - title: Vanet / SUMO
           url: /vanet_landing_page.html
 
         - title: Web
           url: /web_landing_page.html
-

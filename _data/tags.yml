@@ -13,4 +13,9 @@ allowed-tags:
   - news
   - troubleshooting
   - mobile
-  - django
+  - embedded_system
+  - data_structure
+  - vanet
+  - linux
+  - software_development
+  - geoprocessing

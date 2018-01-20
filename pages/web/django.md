@@ -9,9 +9,9 @@ folder: web
 
 ## Instalação 
 
-1. Preparar o ambiente (veja esse [(link)](/python_enviroment.html)
+1. Preparar um ambiente virtual Python (detalhes [aqui][python_enviroment])
 
-2. Instalação dos pacotes
+2. Instalar os pacotes que estão listados no arquivo requeriments.txt
 
     ```shell
     $ workon <enviroment_name>

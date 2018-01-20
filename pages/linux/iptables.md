@@ -1,12 +1,12 @@
 ---
 title: iptables
-tags: [getting_started, troubleshooting]
-keywords:
+tags: [firewall]
+keywords: [firewall]
 summary:
 toc: true
 hide_sidebar: true
 permalink: iptables.html
-folder: firewall
+folder: linux
 ---
 
 ## Regras para o access point

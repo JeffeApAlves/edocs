@@ -1,6 +1,6 @@
 ---
 title: Linux
-keywords: linux
+keywords: [linux]
 sidebar: linux_sidebar
 toc: false
 permalink: linux_landing_page.html

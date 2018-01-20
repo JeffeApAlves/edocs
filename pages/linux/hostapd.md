@@ -6,7 +6,7 @@ summary:
 toc: true
 hide_sidebar: true
 permalink: hostapd.html
-folder: access_point
+folder: linux
 ---
 
 ## Instalação
@@ -140,10 +140,12 @@ folder: access_point
     net.ipv4.ip_forward=1
     ```
 ou        
-
     ```shell
     $ sudo sh -c "echo 1 > /proc/sys/net/ipv4/ip_forward"
     ```
 
+## Configuração firewall
+
+1. Realizar a configuração do firewall conforme este [procedimento][iptables]
 
 {% include links.html %}

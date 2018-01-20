@@ -3,8 +3,8 @@ title: Open Street Map
 keywords: osm 
 sidebar: osm_sidebar
 toc: false
-permalink: osm_landing_page.html
-folder: osm
+permalink: geo_landing_page.html
+folder: geo
 ---
 
 ## Descrição

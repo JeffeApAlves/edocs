@@ -3,7 +3,8 @@ title: Omnet++
 tags: [getting_started, troubleshooting]
 keywords:
 summary:
-hide_sidebar: true
+hide_sidebar: false
+sidebar: vanet_sidebar
 permalink: omnet.html
 folder: vanet
 ---

@@ -7,7 +7,7 @@ sidebar: daphne_sidebar
 hide_sidebar: true
 toc: true
 permalink: daphne.html
-folder: daphne
+folder: python
 ---
 
 ## Instalação
