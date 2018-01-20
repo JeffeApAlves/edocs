@@ -11,7 +11,8 @@ folder: openocd
 
 ## Raspberry (as JTAG adapter)
 
-Através do GPIO a Rb irá se conectar na porta JTAG do dispositivo target que se pretende debugar e subirá o servidor gdb.
+Criará um server para clientes gdb. Rodando na raspberry pi 0, transformando-a em um adapter jtag. É possível configurar a interface permitindo
+a EB, através do GPIO, conectar na porta JTAG do dispositivo target que se pretende debugar.
     
 ### Configuração da interface do OpenOCD
 
