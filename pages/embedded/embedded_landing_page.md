@@ -1,10 +1,12 @@
 ---
-title: Sistemas Embarcado
+title: Embedded system
 keywords: embarcado
 sidebar: embedded_sidebar
 toc: false
 permalink: embedded_landing_page.html
 folder: embedded
 ---
+
+Em construção !
 
 {% include links.html %}

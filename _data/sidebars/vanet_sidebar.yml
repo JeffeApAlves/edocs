@@ -19,14 +19,18 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Softwares
+  - title: Omnet++
     output: web, pdf
     folderitems:
 
-    - title: Omnet++
+    - title: Introdução
       url: /omnet.html
       output: web, pdf
 
-    - title: SUMO
+  - title: SUMO
+    output: web, pdf
+    folderitems:
+
+    - title: Introdução
       url: /sumo_install.html
       output: web, pdf

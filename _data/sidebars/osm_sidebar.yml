@@ -1,8 +1,8 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: OpenStreetMap
-  product: OpenStreetMap
+- title: Geoprocessing
+  product: Geoprocessing
   version:
   folders:
 
@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Tools
+  - title: OpenStreetMap
     output: web, pdf
     folderitems:
 

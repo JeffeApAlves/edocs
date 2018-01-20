@@ -1,5 +1,5 @@
 ---
-title: pgAdm
+title: Data strcutures
 tags: [getting_started, troubleshooting]
 keywords: database
 summary:

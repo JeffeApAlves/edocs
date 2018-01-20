@@ -26,37 +26,43 @@ summary:
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                        <i class="fa fa-circle fa-stack-2x text-primary;color:black"></i>
-                        <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
+                        <a href="sw_landing_page.html">
+                            <i class="fa fa-code fa-stack-1x fa-inverse"> aria-hidden="true"</i>
+                        </a>
                 </span>
             </div>
             <div class="media-body">
-                <a href="sw_landing_page.html"><h4 class="media-heading">Desenvolvimento de software</h4></a>
-                <p>Em construção.</p>
+                <a href="sw_landing_page.html"><h4 class="media-heading">Software development</h4></a>
+                <p>...</p>
             </div>
         </div>
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                        <i class="fa fa-circle fa-stack-2x text-primary;color:black"></i>
-                        <i class="fa fa-map fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
+                        <a href="geo_landing_page.html">
+                            <i class="fa fa-map fa-stack-1x fa-inverse"> aria-hidden="true"</i>
+                        </a>
                 </span>
             </div>
             <div class="media-body">
                 <a href="geo_landing_page.html"><h4 class="media-heading">Geoprocessamento</h4></a>
-                <p>Em construção.</p>
+                <p>...</p>
             </div>
         </div>
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                        <i class="fa fa-circle fa-stack-2x text-primary;color:black"></i>
-                        <i class="fa fa-road fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
+                        <a href="vanet_landing_page.html">
+                            <i class="fa fa-road fa-stack-1x fa-inverse"> aria-hidden="true"</i>
+                        </a>
                 </span>
             </div>
             <div class="media-body">
                 <a href="vanet_landing_page.html"><h4 class="media-heading">Vanet</h4></a>
-                <p>Em construção.</p>
+                <p>...</p>
             </div>
         </div>
     </div>
@@ -64,37 +70,43 @@ summary:
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                        <i class="fa fa-circle fa-stack-2x text-primary;color:black"></i>
-                        <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
+                        <a href="db_landing_page.html">
+                            <i class="fa fa-database fa-stack-1x fa-inverse"> aria-hidden="true"</i>
+                        </a>
                 </span>
             </div>
             <div class="media-body">
                 <a href="db_landing_page.html"><h4 class="media-heading">Data structures</h4></a>
-                <p>Em construção.</p>
+                <p>...</p>
             </div>
         </div>
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                        <i class="fa fa-circle fa-stack-2x text-primary;color:black"></i>
-                        <i class="fa fa-linux fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
+                        <a href="linux_landing_page.html">
+                            <i class="fa fa-linux fa-stack-1x fa-inverse"> aria-hidden="true"</i>
+                        </a>
                 </span>
             </div>
             <div class="media-body">
                 <a href="linux_landing_page.html"><h4 class="media-heading">Linux</h4></a>
-                <p>Em construção.</p>
+                <p>...</p>
             </div>
         </div>
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                        <i class="fa fa-circle fa-stack-2x text-primary;color:black"></i>
-                        <i class="fa fa-microchip fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
+                        <a href="embedded_landing_page.html">
+                            <i class="fa fa-microchip fa-stack-1x fa-inverse"> aria-hidden="true"</i>
+                        </a>
                 </span>
             </div>
             <div class="media-body">
                 <a href="embedded_landing_page.html"><h4 class="media-heading">Embedded system</h4></a>
-                <p>Em construção.</p>
+                <p>...</p>
             </div>
         </div>
     </div>
@@ -102,13 +114,15 @@ summary:
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
-                        <i class="fa fa-circle fa-stack-2x text-primary;color:black"></i>
-                        <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary  item_list"></i>
+                        <a href="web_landing_page.html">
+                            <i class="fa fa-globe fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                        </a>
                 </span>
             </div>
              <div class="media-body">
                   <a href="web_landing_page.html"><h4 class="media-heading">Web</h4></a>
-                  <p>Em construção.</p>
+                  <p>....</p>
              </div>
         </div>
     </div>

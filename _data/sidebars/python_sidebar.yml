@@ -1,8 +1,8 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Python
-  product: Python
+- title:  Software Development
+  product: Software Development
   version:
   folders:
 
@@ -19,10 +19,26 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Ambiente virtual
+  - title: Python
     output: web, pdf
     folderitems:
 
-    - title: Criando
+    - title: Ambiente virtual
       url: /python_enviroment.html
       output: web, pdf
+
+  - title: Java
+    output: web, pdf
+    folderitems:
+
+  - title: C
+    output: web, pdf
+    folderitems:
+
+  - title: C++
+    output: web, pdf
+    folderitems:
+
+  - title: Bash script
+    output: web, pdf
+    folderitems:

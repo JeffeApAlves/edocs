@@ -7,4 +7,6 @@ permalink: linux_landing_page.html
 folder: linux
 ---
 
+Em construção !
+
 {% include links.html %}
