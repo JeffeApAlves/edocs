@@ -7,6 +7,6 @@ permalink: sensores.html
 folder: embedded
 ---
 
-![Características sensores](/attached/map_sensor.png)
+{% include image.html file="embedded/map_sensor.png" caption="Características  gerais de sesnores" %}
 
 {% include links.html %}
