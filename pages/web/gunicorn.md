@@ -3,7 +3,7 @@ title: gunicorn
 keywords: gunicorn
 sidebar: web_sidebar
 toc: true
-hide_sidebar: true
+hide_sidebar: false
 permalink: gunicorn.html
 folder: web
 ---

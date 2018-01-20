@@ -27,6 +27,10 @@ entries:
       url: /nginx.html
       output: web, pdf
 
+    - title: gunicorn
+      url: /gunicorn.html
+      output: web, pdf
+
   - title: Framework
     output: web, pdf
     folderitems:

@@ -1,12 +1,12 @@
 ---
 title: PostGreSQL
 tags: [getting_started, troubleshooting]
-keywords: database
+keywords: database postgresql pgadmmin
 summary:
 sidebar: db_sidebar
 toc: true
-permalink: db.html
-folder: db
+permalink: postgresql.html
+folder: data_sctructure
 ---
 
 ## Instalação
@@ -46,6 +46,22 @@ folder: db
 
     ```shell
     $ nano /var/log/postgresql/postgresql-9.6-main.log
+    ```
+
+### Ferramenta de gerenciamento do banco de dados PostgreSQL.
+
+### Instalação do pgAdmin
+
+### Executando pgAdmin
+
+    ```shell
+    $ python <python_path>/site-packages/pgadmin4/pgAdmin4.py
+    ```
+
+## Configuração
+
+    ```shell
+    $ sudo nano <python_path>/site-packages/pgadmin4/config.py
     ```
 
 {% include links.html %}

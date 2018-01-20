@@ -2,10 +2,10 @@
 title: Ambiente virtual Python
 keywords: virtualenvwrapper workon
 tags: [python]
-sidebar: python_sidebar
+sidebar: sw_sidebar
 toc: true
 permalink: python_enviroment.html
-folder: python
+folder: sw
 ---
 
 ## Instalação

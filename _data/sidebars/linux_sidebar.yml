@@ -44,7 +44,6 @@ entries:
       url: /linux_misc.html
       output: web, pdf
 
-
   - title: Service
     output: web, pdf
     folderitems:
@@ -52,3 +51,12 @@ entries:
     - title: Supervisor
       url: /linux_service.html
       output: web, pdf
+
+  - title: Firewall
+    output: web, pdf
+    folderitems:
+
+    - title: Iptables
+      url: /iptables.html
+      output: web, pdf
+

@@ -3,7 +3,7 @@ title: OpenOCD
 keywords: openocd
 sidebar: openocd_sidebar
 toc: false
-permalink: openocd_landing_page.html
+permalink: openocd_home.html
 folder: openocd
 ---
 

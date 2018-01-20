@@ -3,11 +3,11 @@ title: Daphne
 tags: [getting_started, troubleshooting]
 keywords: Daphne
 summary:
-sidebar: daphne_sidebar
+sidebar: sw_sidebar
 hide_sidebar: true
 toc: true
 permalink: daphne.html
-folder: python
+folder: sw
 ---
 
 ## Instalação

@@ -5,8 +5,8 @@ keywords: database
 summary:
 sidebar: db_sidebar
 toc: false
-permalink: db_landing_page.html
-folder: db
+permalink: data_structures_home.html
+folder: data_sctructure
 ---
 
 Em construção !

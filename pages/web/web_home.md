@@ -3,7 +3,7 @@ title: Web
 keywords: [django , ngin] 
 sidebar: web_sidebar
 toc: false
-permalink: web_landing_page.html
+permalink: web_home.html
 folder: web
 ---
 

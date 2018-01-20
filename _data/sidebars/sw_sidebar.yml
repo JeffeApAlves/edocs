@@ -27,6 +27,10 @@ entries:
       url: /python_enviroment.html
       output: web, pdf
 
+    - title: Daphne
+      url: /daphne.html
+      output: web, pdf
+
   - title: Java
     output: web, pdf
     folderitems:
@@ -40,5 +44,9 @@ entries:
     folderitems:
 
   - title: Bash script
+    output: web, pdf
+    folderitems:
+
+  - title: Desginer Patternes
     output: web, pdf
     folderitems:

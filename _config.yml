@@ -106,14 +106,9 @@ sidebars:
 - embedded_sidebar
 - linux_sidebar
 - osm_sidebar
-- python_sidebar
-- sumo_sidebar
-- web_sidebar
-- db_sidebar
+- sw_sidebar
 - vanet_sidebar
-- mydoc_sidebar
-- product2_sidebar
-- other
+- web_sidebar
 
 description: "Informações técnicas"
 # the description is used in the feed.xml file

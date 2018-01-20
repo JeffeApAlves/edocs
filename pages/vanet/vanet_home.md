@@ -3,7 +3,7 @@ title: Vanet
 keywords: vanet
 sidebar: vanet_sidebar
 toc: false
-permalink: vanet_landing_page.html
+permalink: vanet_home.html
 folder: vanet
 ---
 

@@ -4,7 +4,8 @@ tags: [firewall]
 keywords: [firewall]
 summary:
 toc: true
-hide_sidebar: true
+sidebar: linux_sidebar
+hide_sidebar: false
 permalink: iptables.html
 folder: linux
 ---

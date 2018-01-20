@@ -27,13 +27,13 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
-                        <a href="sw_landing_page.html">
+                        <a href="sw_home.html">
                             <i class="fa fa-code fa-stack-1x fa-inverse"> aria-hidden="true"</i>
                         </a>
                 </span>
             </div>
             <div class="media-body">
-                <a href="sw_landing_page.html"><h4 class="media-heading">Software development</h4></a>
+                <a href="sw_home.html"><h4 class="media-heading">Software development</h4></a>
                 <p>...</p>
             </div>
         </div>
@@ -41,13 +41,13 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
-                        <a href="geo_landing_page.html">
+                        <a href="geo_home.html">
                             <i class="fa fa-map fa-stack-1x fa-inverse"> aria-hidden="true"</i>
                         </a>
                 </span>
             </div>
             <div class="media-body">
-                <a href="geo_landing_page.html"><h4 class="media-heading">Geoprocessamento</h4></a>
+                <a href="geo_home.html"><h4 class="media-heading">Geoprocessing</h4></a>
                 <p>...</p>
             </div>
         </div>
@@ -55,13 +55,13 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
-                        <a href="vanet_landing_page.html">
+                        <a href="vanet_home.html">
                             <i class="fa fa-road fa-stack-1x fa-inverse"> aria-hidden="true"</i>
                         </a>
                 </span>
             </div>
             <div class="media-body">
-                <a href="vanet_landing_page.html"><h4 class="media-heading">Vanet</h4></a>
+                <a href="vanet_home.html"><h4 class="media-heading">Vanet</h4></a>
                 <p>...</p>
             </div>
         </div>
@@ -71,13 +71,13 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
-                        <a href="db_landing_page.html">
+                        <a href="data_structures_home.html">
                             <i class="fa fa-database fa-stack-1x fa-inverse"> aria-hidden="true"</i>
                         </a>
                 </span>
             </div>
             <div class="media-body">
-                <a href="db_landing_page.html"><h4 class="media-heading">Data structures</h4></a>
+                <a href="data_structures_home.html"><h4 class="media-heading">Data structures</h4></a>
                 <p>...</p>
             </div>
         </div>
@@ -85,13 +85,13 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
-                        <a href="linux_landing_page.html">
+                        <a href="linux_home.html">
                             <i class="fa fa-linux fa-stack-1x fa-inverse"> aria-hidden="true"</i>
                         </a>
                 </span>
             </div>
             <div class="media-body">
-                <a href="linux_landing_page.html"><h4 class="media-heading">Linux</h4></a>
+                <a href="linux_home.html"><h4 class="media-heading">Linux</h4></a>
                 <p>...</p>
             </div>
         </div>
@@ -99,13 +99,13 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
-                        <a href="embedded_landing_page.html">
+                        <a href="embedded_home.html">
                             <i class="fa fa-microchip fa-stack-1x fa-inverse"> aria-hidden="true"</i>
                         </a>
                 </span>
             </div>
             <div class="media-body">
-                <a href="embedded_landing_page.html"><h4 class="media-heading">Embedded system</h4></a>
+                <a href="embedded_home.html"><h4 class="media-heading">Embedded system</h4></a>
                 <p>...</p>
             </div>
         </div>
@@ -115,13 +115,13 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary  item_list"></i>
-                        <a href="web_landing_page.html">
+                        <a href="web_home.html">
                             <i class="fa fa-globe fa-stack-1x fa-inverse" aria-hidden="true"></i>
                         </a>
                 </span>
             </div>
              <div class="media-body">
-                  <a href="web_landing_page.html"><h4 class="media-heading">Web</h4></a>
+                  <a href="web_home.html"><h4 class="media-heading">Web</h4></a>
                   <p>....</p>
              </div>
         </div>

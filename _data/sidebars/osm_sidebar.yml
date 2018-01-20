@@ -23,6 +23,6 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Editor
+    - title: JOSM
       url: /osm_edit.html
       output: web, pdf

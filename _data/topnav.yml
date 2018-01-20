@@ -13,25 +13,6 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Tutorials
-      folderitems:
-      - title: Access point
-        url: hostapd.html
-      
-      - title: Nginx
-        url: nginx.html
-      
-      - title: Gunicorn
-        url: gunicorn.html
-      
-      - title: iptables
-        url: iptables.html
-
-      - title: Daphne
-        url: daphne.html
-
-      - title: OpenOCD
-        url: openocd.html
 
     - title: Projects
       folderitems:
@@ -51,22 +32,22 @@ topnav_dropdowns:
       folderitems:
 
         - title: Linux
-          url: /linux_landing_page.html
+          url: /linux_home.html
 
         - title: Embedded System
-          url: /embedded_landing_page.html
+          url: /embedded_home.html
         
         - title: Geoprocessing
-          url: geo_landing_page.html
+          url: geo_home.html
         
         - title: Software development
-          url: /sw_landing_page.html
+          url: /sw_home.html
         
         - title: Data structures
-          url: /db_landing_page.html
+          url: /data_structures_home.html
 
-        - title: Vanet / SUMO
-          url: /vanet_landing_page.html
+        - title: Vanet/SUMO
+          url: /vanet_home.html
 
         - title: Web
-          url: /web_landing_page.html
+          url: /web_home.html

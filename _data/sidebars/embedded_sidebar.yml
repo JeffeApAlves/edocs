@@ -34,3 +34,20 @@ entries:
     - title: Debug
       url: /esp32_debug.html
       output: web, pdf
+
+  - title: RTOS
+    output: web, pdf
+    folderitems:
+
+    - title: FreeRTOS
+      url: /esp32_debug.html
+      output: web, pdf
+
+  - title: Raspbery PI
+    output: web, pdf
+    folderitems:
+
+    - title: OpenOCD
+      url: /openocd.html
+      output: web, pdf
+

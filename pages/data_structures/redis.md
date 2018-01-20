@@ -4,7 +4,7 @@ keywords: redis
 sidebar: redis_sidebar
 toc: false
 permalink: redis.html
-folder: redis
+folder: data_sctructure
 ---
 
 

@@ -24,9 +24,9 @@ entries:
     folderitems:
 
     - title: PostGreSQL
-      url: /db.html
+      url: /postgresql.html
       output: web, pdf
 
-    - title: Admin
-      url: /db_admin.html
-      output: web, pdf
+  - title: NoSQL
+    output: web, pdf
+    folderitems:

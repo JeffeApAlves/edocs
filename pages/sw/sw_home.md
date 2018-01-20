@@ -1,10 +1,10 @@
 ---
 title: Software development
 keywords: python
-sidebar: python_sidebar
+sidebar: sw_sidebar
 toc: false
-permalink: sw_landing_page.html
-folder: python
+permalink: sw_home.html
+folder: sw
 ---
 
 Em construção !

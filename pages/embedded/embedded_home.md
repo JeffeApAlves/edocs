@@ -3,7 +3,7 @@ title: Embedded system
 keywords: embarcado
 sidebar: embedded_sidebar
 toc: false
-permalink: embedded_landing_page.html
+permalink: embedded_home.html
 folder: embedded
 ---
 
