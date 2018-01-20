@@ -51,3 +51,11 @@ entries:
       url: /openocd.html
       output: web, pdf
 
+  - title: Eletrôncia
+    output: web, pdf
+    folderitems:
+
+    - title: Sensores
+      url: /sensores.html
+      output: web, pdf
+
