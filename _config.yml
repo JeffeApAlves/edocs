@@ -115,3 +115,4 @@ description: "Informações técnicas"
 
 # needed for sitemap.xml file only
 url: http://jeffeapalves.github.io
+baseurl: /edocs
