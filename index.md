@@ -1,6 +1,6 @@
 ---
 title: "Home"
-keywords: projects github embedded system  data structure vanet linux software development geoprocessing
+keywords: projects github embedded system  data structure science vanet linux software development geoprocessing
 tags: 
   - getting_started
   - embedded_system
@@ -105,7 +105,7 @@ summary:
                 </span>
             </div>
             <div class="media-body">
-                <a href="embedded_home.html"><h4 class="media-heading">Embedded system</h4></a>
+                <a href="embedded_home.html"><h4 class="media-heading">Embedded Systems</h4></a>
                 <p>...</p>
             </div>
         </div>
