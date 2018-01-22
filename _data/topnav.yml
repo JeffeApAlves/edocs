@@ -6,8 +6,8 @@ topnav:
     - title: GitHub
       external_url: https://github.com/jeffeapalves
 
-    - title: Resume
-      external_url: https://jeffeapalves.github.io/
+    - title: About
+      external_url: https://jeffeapalves.github.io/about
     - title: News
       url: /news
 
