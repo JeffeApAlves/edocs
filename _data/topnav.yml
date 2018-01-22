@@ -6,6 +6,9 @@ topnav:
     - title: GitHub
       external_url: https://github.com/jeffeapalves
 
+    - title: Resume
+      external_url: https://jeffapalves.github.io
+
     - title: News
       url: /news
 
