@@ -39,6 +39,6 @@ entries:
       url: /django.html
       output: web, pdf
 
-   - title: Flask
+    - title: Flask
       url: /flask.html
       output: web, pdf
