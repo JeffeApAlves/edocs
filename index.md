@@ -71,8 +71,8 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                         <i class="fa fa-circle fa-stack-2x text-primary item_list"></i>
-                        <a href="data_structures_home.html">
-                            <i class="fa fa-database fa-stack-1x fa-inverse"> aria-hidden="true"</i>
+                        <a href="data_home.html">
+                            <i class="fa fa-flask fa-stack-1x fa-inverse"> aria-hidden="true"</i>
                         </a>
                 </span>
             </div>
