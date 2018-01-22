@@ -19,14 +19,17 @@ topnav_dropdowns:
       - title: gtracker
         external_url: https://jeffeapalves.github.io/gtracker
 
-      - title: MasterTrader
-        external_url: https://jeffeapalves.github.io/MasterTrader
-
       - title: TrainRoute
         external_url: https://jeffeapalves.github.io/TrainRoute
 
       - title: ETA
         external_url: https://jeffeapalves.github.io/ETA
+
+      - title: MasterTrader
+        external_url: https://jeffeapalves.github.io/MasterTrader
+
+      - title: RB3_Monitor
+        external_url: https://jeffeapalves.github.io/RB3_Monitor
 
     - title: Category
       folderitems:

@@ -1,8 +1,8 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Data structures
-  product: Data structures
+- title: Data Science
+  product: Data
   version:
   folders:
 
@@ -30,3 +30,29 @@ entries:
   - title: NoSQL
     output: web, pdf
     folderitems:
+
+    - title: MongoDB
+      url: /mongodb.html
+      output: web, pdf
+
+  - title: IA
+    output: web, pdf
+    folderitems:
+
+    - title: TensorFlow
+      url: /tensorflow.html
+      output: web, pdf
+
+  - title: Grafos
+    output: web, pdf
+    folderitems:
+
+    - title: Neo4j
+      url: /neo4j.html
+      output: web, pdf
+
+    - title: Gephi
+      url: /gephi.html
+      output: web, pdf
+
+
