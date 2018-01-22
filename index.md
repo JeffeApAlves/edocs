@@ -77,7 +77,7 @@ summary:
                 </span>
             </div>
             <div class="media-body">
-                <a href="data_structures_home.html"><h4 class="media-heading">Data structures</h4></a>
+                <a href="data_home.html"><h4 class="media-heading">Data Science</h4></a>
                 <p>...</p>
             </div>
         </div>
