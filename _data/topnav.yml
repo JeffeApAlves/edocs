@@ -46,8 +46,8 @@ topnav_dropdowns:
         - title: Software development
           url: /sw_home.html
         
-        - title: Data structures
-          url: /data_structures_home.html
+        - title: Data Science
+          url: /data_home.html
 
         - title: Vanet/SUMO
           url: /vanet_home.html

@@ -6,7 +6,7 @@ summary:
 sidebar: db_sidebar
 toc: true
 permalink: postgresql.html
-folder: data_sctructure
+folder: data
 ---
 
 ## Instalação

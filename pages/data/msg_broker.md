@@ -4,7 +4,7 @@ keywords: rabbitmq
 sidebar: msg_broker_sidebar
 toc: true
 permalink: rabbitq.html
-folder: data_sctructure
+folder: data
 ---
 
 ## Instalação do RabbitMQ
