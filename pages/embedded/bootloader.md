@@ -27,5 +27,7 @@ característica do Das U-boot é não ter suporte ao UEFI
 Referências:
 
 [Comparação](https://en.wikipedia.org/wiki/Comparison_of_boot_loaders#Notes)
+
 [UEFI](https://elinux.org/images/6/69/Marrying_U-Boot,_UEFI_and_grub.pdf)
+
 [Redboot and u-boot](http://rts.lab.asu.edu/web_438/project_final/Talk%2010%20Redboot.pdf)

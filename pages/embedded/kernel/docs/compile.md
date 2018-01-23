@@ -154,14 +154,14 @@ Prompt da versão original do kernel
 [result original][result_compilado]
 
 
-[path_toolchain]: bashrc
-[clone_sourcecode]: clone_kernel
+[path_toolchain]: bashrc.png
+[clone_sourcecode]: clone_kernel.png
 [config]: config.png
-[menuconfig]: menuconfig.png
+[menuconfig]: menu_config.png
 [start_compile]: start_compile.png
 [end_compile]: end_compile.png
 [lsbk_result]: lsbk.png
-[file_explorer_original]: ile_explorer_original.png
+[file_explorer_original]: file_explorer_original.png
 [result_original]: result_original.png
 [install_modules]: install_modules.png
 [copy_files]: copy_files.png
