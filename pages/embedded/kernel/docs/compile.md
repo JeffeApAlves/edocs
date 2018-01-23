@@ -11,7 +11,7 @@ folder: embedded
 
 1. Editar o arquivo “~/.bashrc” ativando a PATH do toolchain conforme a figura abaixo. Adicionar as variáveis de ambiente que será utilizado na compilação do
 
-[path do toolchain][path_toolchain]
+![path do toolchain][path_toolchain]
 
 ## Código fonte
 
@@ -21,14 +21,14 @@ folder: embedded
     git clone --depth=1 https://github.com/raspberrypi/linux
     ```
 
-[Clonagem código fonte][clone_sourcecode]
+![Clonagem código fonte][clone_sourcecode]
 
 
 Periodicamente usar o comando abaixo, para manter o código atualizado com o repositório.
 
-    ```shell 
-    git pull
-    ```
+```shell 
+git pull
+```
 
 ## Configuração da compilação
 
@@ -44,13 +44,13 @@ Periodicamente usar o comando abaixo, para manter o código atualizado com o rep
     make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf-bcmrpi_defconfig
     ```
 
-[Configuração][config]
+![Configuração][config]
 
 ### Menu configuração
 
 Quando necessário utilizar o comando make menuconfig para ter acesso as configurações e alterá-las conforme a necessidade.
 
-[Menu de configuração][menuconfig]
+![Menu de configuração][menuconfig]
 
 ## Compilação
 
@@ -62,12 +62,12 @@ Quando necessário utilizar o comando make menuconfig para ter acesso as configu
 
 O comando tee irá criar um arquivo com a saída da compilação e mostrar na tela simultaneamente.
 
-[Inicio compilação][start_compile]
+![Inicio compilação][start_compile]
 
 
 Fim compilação
 
-[Fim compilação][end_compile]
+![Fim compilação][end_compile]
 
 ## Preparação do SD-Card
 
@@ -83,7 +83,7 @@ Fim compilação
     ```shell
     lsblk
     ```
-[resultado lsbk][lsbk_result]
+![resultado lsbk][lsbk_result]
 
 ## Verificando original
 
@@ -93,7 +93,7 @@ Versão 4.9.59 Data Sun Oct 29 2017 11:47:10
 
 Verificando a data do arquivo original
 
-[file explorer original][file_explorer_original]
+![file explorer original][file_explorer_original]
 
 Prompt da versão original do kernel
 
@@ -101,7 +101,7 @@ Prompt da versão original do kernel
     uname -a
     ```
 
-[result original][result_original]
+![result original][result_original]
 
 
 ## Instalação do Kernel compilado
@@ -125,7 +125,7 @@ Prompt da versão original do kernel
 
 Instalando os módulos
 
-[instação dos modulos][install_modules]
+![instação dos modulos][install_modules]
 
 3. Para instala o Kernel realizar a cópia de alguns arquivos seguindo a sequência abaixo. O comando da primeira linha faz um backup do kernel original.
 
@@ -137,13 +137,13 @@ Instalando os módulos
    sudo cp arch/arm/boot/dts/overlays/README mnt/fat32/overlays/
    ```
 
-[Copia dos arquivos][copy_files]
+![Copia dos arquivos][copy_files]
 
 ## Verificando compilado
 
 Verificando a data do arquivo compilado
 
-[file explorer original][file_explorer_compilado]
+![file explorer original][file_explorer_compilado]
 
 Prompt da versão original do kernel
 
@@ -151,8 +151,7 @@ Prompt da versão original do kernel
     uname -a
     ```
 
-[result original][result_compilado]
-
+![result original][result_compilado]
 
 [path_toolchain]: bashrc.png
 [clone_sourcecode]: clone_kernel.png
