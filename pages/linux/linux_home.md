@@ -7,6 +7,4 @@ permalink: linux_home.html
 folder: linux
 ---
 
-Em construção !
-
 {% include links.html %}

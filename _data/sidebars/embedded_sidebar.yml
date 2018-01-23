@@ -59,3 +59,21 @@ entries:
       url: /sensores.html
       output: web, pdf
 
+  - title: Bootloader
+    output: web, pdf
+    folderitems:
+    
+    - title: Comparação
+      url: /bootloaders_compare.html
+      output: web, pdf
+
+  - title: Kernel
+    output: web, pdf
+    folderitems:
+
+    - title: Compilação
+      url: /bootloaders_compare.html
+      output: web, pdf
+    
+
+      
