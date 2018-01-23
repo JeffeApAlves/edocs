@@ -72,7 +72,7 @@ entries:
     folderitems:
 
     - title: Compilação
-      url: /bootloaders_compare.html
+      url: /kernel_compile.html
       output: web, pdf
     
 

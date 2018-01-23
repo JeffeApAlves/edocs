@@ -1,3 +1,12 @@
+---
+title: Kernel compile
+keywords: embarcado kernel compile
+sidebar: embedded_sidebar
+toc: true
+permalink: kernel_compile.html
+folder: embedded
+---
+
 ## Configurar/verificar ambiente de desenvolvimento
 
 1. Editar o arquivo “~/.bashrc” ativando a PATH do toolchain conforme a figura abaixo. Adicionar as variáveis de ambiente que será utilizado na compilação do
