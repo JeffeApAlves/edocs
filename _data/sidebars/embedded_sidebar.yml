@@ -40,7 +40,7 @@ entries:
     folderitems:
 
     - title: FreeRTOS
-      url: /esp32_debug.html
+      url: /rtos.html
       output: web, pdf
 
   - title: Raspbery PI

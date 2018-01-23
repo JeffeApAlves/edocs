@@ -1,5 +1,5 @@
 ---
-title: Kernel compile
+title: Compilação do Kernel
 keywords: embarcado kernel compile
 sidebar: embedded_sidebar
 toc: true
@@ -97,9 +97,9 @@ Verificando a data do arquivo original
 
 Prompt da versão original do kernel
 
-    ```shell
-    uname -a
-    ```
+```shell
+uname -a
+```
 
 ![result original][result_original]
 
@@ -147,9 +147,9 @@ Verificando a data do arquivo compilado
 
 Prompt da versão original do kernel
 
-    ```shell
-    uname -a
-    ```
+```shell
+uname -a
+```
 
 ![result original][result_compilado]
 
