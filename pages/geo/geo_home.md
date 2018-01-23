@@ -7,6 +7,4 @@ permalink: geo_home.html
 folder: geo
 ---
 
-Em construção !
-
 {% include links.html %}

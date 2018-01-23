@@ -7,6 +7,4 @@ permalink: embedded_home.html
 folder: embedded
 ---
 
-Em construção !
-
 {% include links.html %}

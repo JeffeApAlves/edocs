@@ -68,7 +68,7 @@ Selecionar outra versão do Python
 ```shell
 $ sudo update-alternatives --config python
 ```
-## Referencias: 
+## Referências: 
 
 [link1](https://pt.stackoverflow.com/questions/52/como-usar-o-virtualenv-para-gerenciar-as-depend%C3%AAncias-duma-aplica%C3%A7%C3%A3o-python)
 

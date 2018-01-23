@@ -4,7 +4,7 @@ tags: [getting_started, troubleshooting]
 keywords: Daphne
 summary:
 sidebar: sw_sidebar
-hide_sidebar: true
+hide_sidebar: false
 toc: true
 permalink: daphne.html
 folder: sw

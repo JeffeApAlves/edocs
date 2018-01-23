@@ -9,7 +9,5 @@ permalink: data_home.html
 folder: data
 ---
 
-Em construção !
-
 
 {% include links.html %}

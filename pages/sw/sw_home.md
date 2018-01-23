@@ -7,6 +7,4 @@ permalink: sw_home.html
 folder: sw
 ---
 
-Em construção !
-
 {% include links.html %}
