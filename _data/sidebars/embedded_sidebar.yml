@@ -51,6 +51,10 @@ entries:
       url: /openocd.html
       output: web, pdf
 
+    - title: Compilação kernel
+      url: /kernel_compile.html
+      output: web, pdf
+
   - title: Eletrôncia
     output: web, pdf
     folderitems:
@@ -67,13 +71,6 @@ entries:
       url: /bootloaders_compare.html
       output: web, pdf
 
-  - title: Kernel
-    output: web, pdf
-    folderitems:
-
-    - title: Compilação
-      url: /kernel_compile.html
-      output: web, pdf
     
 
       
