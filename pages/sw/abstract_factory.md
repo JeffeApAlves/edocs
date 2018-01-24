@@ -2,15 +2,13 @@
 title: Abstracted Factory
 keywords: oop desgin patterns factory method
 sidebar: sw_sidebar
-toc: false
-permalink: factory_method.html
+toc: true
+permalink: abstract_factory.html
 folder: designer_partners
 ---
 
 
 ## C++
-
-
 
 ```cpp
 

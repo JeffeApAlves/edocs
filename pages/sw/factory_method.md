@@ -2,7 +2,7 @@
 title: Factory Method 
 keywords: oop desgin patterns factory method
 sidebar: sw_sidebar
-toc: false
+toc: true
 permalink: factory_method.html
 folder: designer_partners
 ---
