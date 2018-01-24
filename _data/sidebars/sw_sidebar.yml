@@ -51,6 +51,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: C++
+      extern_url: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Design_Patterns#Factory
+      output: web, pdf
+
     - title: Factory method
       url: /factory_method.html
       output: web, pdf
