@@ -47,6 +47,10 @@ entries:
     output: web, pdf
     folderitems:
 
-  - title: Desginer Patternes
+  - title: Designer Partners
     output: web, pdf
     folderitems:
+
+    - title: Factory method
+      url: /factory_method.html
+      output: web, pdf
