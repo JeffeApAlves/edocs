@@ -49,7 +49,7 @@ entries:
 
   - title: Designer Patterns
     output: web, pdf
-    url: designer_patterns.html
+    folderitems:
 
     - title: Creational Patterns
       external_url: https://sourcemaking.com/design_patterns/creational_patterns
@@ -59,6 +59,6 @@ entries:
       external_url: https://sourcemaking.com/design_patterns/structural_patterns
       output: web, pdf
 
-    - title: Behavioral Patterns]
+    - title: Behavioral Patterns
       external_url: https://sourcemaking.com/design_patterns/behavioral_patterns
       output: web, pdf
