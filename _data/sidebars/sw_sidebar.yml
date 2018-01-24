@@ -52,13 +52,13 @@ entries:
     folderitems:
 
     - title: Creational Patterns
-      external_url: https://sourcemaking.com/design_patterns/creational_patterns
+      url: creational_patterns.html
       output: web, pdf
 
     - title: Structural Patterns
-      external_url: https://sourcemaking.com/design_patterns/structural_patterns
+      external_url: structural_patterns.html
       output: web, pdf
 
     - title: Behavioral Patterns
-      external_url: https://sourcemaking.com/design_patterns/behavioral_patterns
+      external_url: behavioral_patterns.html
       output: web, pdf
