@@ -1,24 +1,16 @@
 ---
-title: mc
-keywords: [mc]
-summary: "Gerenciador de documentos via cl"
-sidebar: linux_sidebar
+title: Misc
+tags: [getting_started, troubleshooting]
+keywords:
+summary:
+toc: true
+hide_sidebar: true
 permalink: linux_misc.html
 folder: linux
-tags: [cl, mc]
-toc: true
 ---
 
-## Instalação
-
-```shell
-$ sudo apt-get install mc
-```
-
-## Execução
-
-```shell
-$ mc
-```
-
-{% include links.html %}
+### Descobrir  o path do software/comando que esta sendo executado
+    
+    ```shell
+    $ which <software/comando>
+    ```

@@ -4,7 +4,7 @@ keywords: oop desgin patterns factory method
 sidebar: sw_sidebar
 toc: false
 permalink: factory_method.html
-folder: sw
+folder: designer_partners
 ---
 
 
