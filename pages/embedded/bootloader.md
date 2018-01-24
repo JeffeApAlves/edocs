@@ -1,5 +1,6 @@
 ---
 title: Bootloader
+tags: [linux, Embedded_system]
 keywords: embarcado bootloader
 sidebar: embedded_sidebar
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: Data Science
-tags: [getting_started, troubleshooting]
+tags: [data_science]
 keywords: database IA neo4j grafos 
 summary:
 sidebar: data_sidebar

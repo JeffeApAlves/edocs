@@ -1,6 +1,5 @@
 ---
 title: PostGreSQL
-tags: [getting_started, troubleshooting]
 keywords: database postgresql pgadmmin
 summary:
 sidebar: db_sidebar

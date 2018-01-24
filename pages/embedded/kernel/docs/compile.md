@@ -1,5 +1,6 @@
 ---
 title: Compilação do Kernel
+tags: [linux, Embedded_system]
 keywords: embarcado kernel compile
 sidebar: embedded_sidebar
 toc: true

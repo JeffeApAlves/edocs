@@ -1,5 +1,6 @@
 ---
 title: RabbitMQ
+tags: [iot]
 keywords: rabbitmq
 sidebar: msg_broker_sidebar
 toc: true
