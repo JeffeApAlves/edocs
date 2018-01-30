@@ -14,6 +14,7 @@ folder: sw
     ```shell
     $ sudo pip install virtualenvwrapper
     ```
+
 ## Configuração
 
 2. Adicionar o path do repositório de ambientes
