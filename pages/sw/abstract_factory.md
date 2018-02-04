@@ -1,5 +1,5 @@
 ---
-title: Abstracted Factory
+title: Abstract Factory
 keywords: oop desgin patterns factory method
 sidebar: sw_sidebar
 toc: true
@@ -7,6 +7,9 @@ permalink: abstract_factory.html
 folder: designer_partners
 ---
 
+## UML 
+
+![abstract factory][abstract_factory]
 
 ## C++
 
@@ -94,5 +97,6 @@ int main() {
 }
 ```
 
+[abstract_factory]:designer_patterns/abstract_factory.png
 
 {% include links.html %}
