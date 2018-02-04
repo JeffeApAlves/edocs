@@ -97,6 +97,6 @@ int main() {
 }
 ```
 
-[abstract_factory]:./designer_patterns/abstract_factory.png
+[abstract_factory]:designer_patterns/abstract_factory.png
 
 {% include links.html %}
