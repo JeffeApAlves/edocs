@@ -4,7 +4,7 @@ keywords: oop desgin patterns factory method
 sidebar: sw_sidebar
 toc: true
 permalink: abstract_factory.html
-folder: designer_partners
+folder: designer_patterns
 ---
 
 ## UML 
@@ -97,6 +97,6 @@ int main() {
 }
 ```
 
-[abstract_factory]:designer_patterns/abstract_factory.png
+[abstract_factory]:abstract_factory.png
 
 {% include links.html %}
