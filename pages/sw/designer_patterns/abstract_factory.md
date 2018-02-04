@@ -4,7 +4,7 @@ keywords: oop desgin patterns factory method
 sidebar: sw_sidebar
 toc: true
 permalink: abstract_factory.html
-folder: designer_patterns
+folder: sw
 ---
 
 ## UML 
